@@ -19,8 +19,8 @@
 
 # Best Model: Model 1 - Random Forest Classifier
 - *Training Results:* 1.0
-- *Testing Results:* 0.897
-- **Summary:** This model is the best model, with a testing score of 0.897. This means that the model can predict an outcome correctly 89.7% of the time. This model would be good to predict which exoplanets are not true, as it has a pretty good success rate of predicting "False Positives".
+- *Testing Results:* 0.90
+- **Summary:** This model is the best model, with a testing score of 0.90. This means that the model can predict an outcome correctly 90% of the time. This model would be good to predict which exoplanets are not true, as it has a pretty good success rate of predicting "False Positives".
 
 ## Before Tuning:
 ![Model-1 Before](./images/model_1_b.png)

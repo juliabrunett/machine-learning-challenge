@@ -1,5 +1,5 @@
 # machine-learning-challenge
-**Machine Learning Homework:** This project focused on taking potential exoplanet measurement data & using machine learning libraries such as sklearn to create a model that will successfully predict an outcome with new data at a high success rate. 
+**Machine Learning Homework:** This project focused on taking exoplanet measurement data & using machine learning libraries such as sklearn to create a model that will successfully predict an outcome with new data at a high success rate. If new measurements for another potential exoplanet were recorded, this model could predict whether or not it will be a confirmed planet, a candidate, or a false positive planet.
 
 **models:**
 - julia_brunett.sav: Best model created to predict new exoplanets
@@ -33,7 +33,7 @@
 # Model 2 - Logistic Regression Classifier
 - *Training Results:* 0.889
 - *Testing Results:* 0.886
-- **Summary:** This model has a testing score of 0.886, which is good, but not the best compared to the first model. This model could be improved by using GridSearch again to see if there are any other parameters that can be modified to produce better results.
+- **Summary:** This model has a testing score of 0.886, which is good, but not the best compared to the first model. This model could be improved by using GridSearch again to see if there are any other parameters that can be modified to produce better results. This model could correctly predict an exoplanet 88.6% of the time, which is pretty good.
 
 ## Before Tuning:
 ![Model-2 Before](./images/model_2_b.png)
